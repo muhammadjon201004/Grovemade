@@ -14,6 +14,7 @@ module.exports = {
         xl: '1440px', 
 
         SmMini:{'max' : '320px'},
+        SmMini2:{'max' : '380px'},
         sm3: {'max' : '480px'},
         sm2: {'max' : '520px'},
         sm4: {'max' : '589px'},

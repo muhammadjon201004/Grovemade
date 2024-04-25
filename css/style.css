@@ -902,6 +902,16 @@ video {
   }
 }
 
+@media (max-width: 380px) {
+  .SmMini2\:w-\[80\%\] {
+    width: 80%;
+  }
+
+  .SmMini2\:w-\[80vw\] {
+    width: 80vw;
+  }
+}
+
 @media (max-width: 480px) {
   .sm3\:w-full {
     width: 100%;
